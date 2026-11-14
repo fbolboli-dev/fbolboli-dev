@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Fatemeh Bolboli 👋
 
-<!--
-**fbolboli-dev/fbolboli-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Graduate | Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate interested in software development, problem-solving, and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional software and continuously improving my technical skills.
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Engineering Graduate
+- 💻 Interested in Software Development and C# Programming
+- 🗄️ Experienced in SQL Server and Relational Database Development
+- 🌐 Exploring Front-End Development
+- 📚 Currently learning JavaScript and React
+- 🚀 Passionate about building practical applications and solving problems
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- C#
+- Python
+- HTML
+- CSS
+
+**Frameworks & Technologies**
+- .NET / Windows Forms
+- ADO.NET
+- SQL Server
+
+**Tools**
+- Visual Studio
+- Visual Studio Code
+- Git & GitHub
+
+### 🌱 Currently Learning
+
+- JavaScript
+- React
+- Modern Front-End Development
+
+### 📌 Featured Projects
+
+Coming soon! I'm currently preparing and documenting my projects.
+
+### 📫 Connect With Me
+
+- GitHub: [@fbolboli-dev](https://github.com/fbolboli-dev)
